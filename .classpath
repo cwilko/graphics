@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+    <classpathentry kind="src" path=""/>
+    <classpathentry kind="lib" path="C:/Program Files/IBM/Java14/jre/lib/xml.jar"/>
+    <classpathentry kind="lib" path="C:/Program Files/IBM/Java14/jre/lib/charsets.jar"/>
+    <classpathentry kind="lib" path="C:/Program Files/IBM/Java14/jre/lib/core.jar"/>
+    <classpathentry kind="lib" path="C:/Program Files/IBM/Java14/jre/lib/graphics.jar"/>
+    <classpathentry kind="lib" path="C:/Program Files/IBM/Java14/jre/lib/javaws.jar"/>
+    <classpathentry kind="lib" path="C:/Program Files/IBM/Java14/jre/lib/jaws.jar"/>
+    <classpathentry kind="lib" path="C:/Program Files/IBM/Java14/jre/lib/security.jar"/>
+    <classpathentry kind="lib" path="C:/Program Files/IBM/Java14/jre/lib/server.jar"/>
+    <classpathentry kind="output" path=""/>
+</classpath>
